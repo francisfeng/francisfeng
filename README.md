@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 My Blog (Chinese): https://francis.xyz
 
 My Apps (the website is currently Simplified Chinese only, but the apps support English.): [Shiny Stone](https://shinystone.net/)
+-->
