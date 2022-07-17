@@ -1,5 +1,4 @@
-My New App: [Anybox - A modern bookmark manager. An essential productivity tool.](https://anybox.cc)
+Making apps on Apple platform.
 
-My Second App: [OK JSON - Format and View JSON with Native Mac App](https://okjson.app/)
-
-My First App: [Seamless - Sync links and Images](https://shinystone.net/seamless)
+[Anybox - Manage bookmarks like a pro.](https://anybox.cc)
+[OK JSON - Format and View JSON with Native Mac App](https://okjson.app/)
